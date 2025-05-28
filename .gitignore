@@ -1,0 +1,9 @@
+*.class
+*.jar
+.vscode/
+.idea/
+*.iml
+.env
+output/*.csv
+data/*.csv
+
